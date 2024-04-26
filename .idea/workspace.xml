@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ec4aca1-d033-412b-8782-2bfe10e92528" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simple_Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/avgSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/floydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/halfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/halfPyramidWithNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inverted180HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertedHalfPyramidWithNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertedhalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solidRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solidRhombus.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Assignment1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fNCnj3eKhFiNDqyQeURGvX6ekJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Assignment1.executor": "Run",
+    "Application.CurrencyExchange.executor": "Run",
+    "Application.Greeting.executor": "Run",
+    "Application.Simple_Interest.executor": "Run",
+    "Application.Triangle0_1.executor": "Run",
+    "Application.avgSum.executor": "Run",
+    "Application.factorialNumber.executor": "Run",
+    "Application.floydsTriangle.executor": "Run",
+    "Application.halfPyramid.executor": "Run",
+    "Application.halfPyramidWithNumbers.executor": "Run",
+    "Application.hollowRectangle.executor": "Run",
+    "Application.inverted180HalfPyramid.executor": "Run",
+    "Application.invertedHalfPyramidWithNumbers.executor": "Run",
+    "Application.invertedhalfPyramid.executor": "Run",
+    "Application.oddSum.executor": "Run",
+    "Application.solidRectangle.executor": "Run",
+    "Application.solidRhombus.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.solidRhombus">
+    <configuration name="Triangle0_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle0_1" />
+      <module name="Java Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="floydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="floydsTriangle" />
+      <module name="Java Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="halfPyramidWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="halfPyramidWithNumbers" />
+      <module name="Java Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="invertedHalfPyramidWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="invertedHalfPyramidWithNumbers" />
+      <module name="Java Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solidRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solidRhombus" />
+      <module name="Java Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.solidRhombus" />
+        <item itemvalue="Application.Triangle0_1" />
+        <item itemvalue="Application.floydsTriangle" />
+        <item itemvalue="Application.invertedHalfPyramidWithNumbers" />
+        <item itemvalue="Application.halfPyramidWithNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec4aca1-d033-412b-8782-2bfe10e92528" name="Changes" comment="" />
+      <created>1713632334498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713632334498</updated>
+    </task>
+    <servers />
+  </component>
+</project>
