@@ -1,3 +1,5 @@
+package PatternQuestions;
+
 import java.util.Scanner;
 public class hollowRectangle {
     public static void main(String[] args) {

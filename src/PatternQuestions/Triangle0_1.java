@@ -1,3 +1,5 @@
+package PatternQuestions;
+
 import java.util.Scanner;
 
 public class Triangle0_1 {

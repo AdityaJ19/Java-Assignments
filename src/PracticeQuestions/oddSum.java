@@ -1,3 +1,5 @@
+package PracticeQuestions;
+
 import java.util.Scanner;
 public class oddSum {
     static int sum = 0;
