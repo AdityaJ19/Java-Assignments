@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec4aca1-d033-412b-8782-2bfe10e92528" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/butterflyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/diamondShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/hollowRhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/numberPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/palindromicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Array2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/SpiralMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/CurrencyExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/Even_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple_Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/Simple_Interest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle0_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/Triangle0_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/avgSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/avgSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/factorialNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/floydsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/floydsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/halfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/halfPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/halfPyramidWithNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/halfPyramidWithNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hollowRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/hollowRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inverted180HalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/inverted180HalfPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/invertedHalfPyramidWithNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/invertedHalfPyramidWithNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/invertedhalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/invertedhalfPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oddSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQuestions/oddSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/solidRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidRhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestions/solidRhombus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +45,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array2d.executor": "Run",
     "Application.Assignment1.executor": "Run",
     "Application.CurrencyExchange.executor": "Run",
     "Application.Greeting.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.Question3.executor": "Run",
+    "Application.Question4.executor": "Run",
     "Application.Simple_Interest.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
     "Application.Triangle0_1.executor": "Run",
     "Application.avgSum.executor": "Run",
     "Application.butterflyPattern.executor": "Run",
@@ -98,9 +79,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question3">
-    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Question1" />
+  <component name="RunManager" selected="Application.SpiralMatrix">
+    <configuration name="Array2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Array2d" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
@@ -138,27 +119,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="diamondShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternQuestions.diamondShape" />
+    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Question4" />
       <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindromicSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternQuestions.palindromicSeries" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.SpiralMatrix" />
       <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.Question4" />
+        <item itemvalue="Application.Array2d" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.diamondShape" />
-        <item itemvalue="Application.palindromicSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714110104689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1714498357077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714498357077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
