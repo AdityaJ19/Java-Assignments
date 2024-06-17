@@ -9,7 +9,7 @@ public class SpiralMatrix {
         int m = sc.nextInt();
 
 
-        int matrix[][] = new int[n][m];
+        int[][] matrix = new int[n][m];
         for(int i=0; i<n; i++) {
             for(int j=0; j<m; j++) {
                 matrix[i][j] = sc.nextInt();

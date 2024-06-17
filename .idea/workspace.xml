@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec4aca1-d033-412b-8782-2bfe10e92528" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Array2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssignment/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternQuestions/Pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAssignment/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAssignment/SpiralMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Application.Assignment1.executor": "Run",
     "Application.CurrencyExchange.executor": "Run",
     "Application.Greeting.executor": "Run",
+    "Application.Pattern1.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.Question3.executor": "Run",
@@ -79,7 +79,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.Pattern1">
     <configuration name="Array2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Array2d" />
       <module name="Java Assignments" />
@@ -93,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Question2" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternQuestions.Pattern1" />
       <module name="Java Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayAssignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssignment.Question3" />
-      <module name="Java Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayAssignment.*" />
+          <option name="PATTERN" value="PatternQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,15 +132,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="diamondShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternQuestions.diamondShape" />
+      <module name="Java Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PatternQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.diamondShape" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Array2d" />
-        <item itemvalue="Application.Question3" />
-        <item itemvalue="Application.Question2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -180,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714498357077</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1714932394328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714932394328</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
