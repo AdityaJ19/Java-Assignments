@@ -5,14 +5,15 @@ import java.util.Scanner;
 public class Question2 {
     public static void main(String[] args) {
         //Question2 :- Find the maximum & minimum number in an array of integers.
-        Scanner sc= new Scanner(System.in);
-        int size= sc.nextInt();
-        int numbers[]=new int[size];
+//        Scanner sc= new Scanner(System.in);
+//        int size= sc.nextInt();
+        int numbers[]=new int[5];
+        numbers = new int[]{12, 23, 43, 65, 67};
 
         //Input
-        for (int i = 0; i <size ; i++) {
-            numbers[i]=sc.nextInt();
-        }
+//        for (int i = 0; i <size ; i++) {
+//            numbers[i]=sc.nextInt();
+//        }
 
         int max= Integer.MIN_VALUE;
         int min= Integer.MAX_VALUE;
